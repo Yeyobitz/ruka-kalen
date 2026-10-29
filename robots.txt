@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitio informativo sin datos personales.
